@@ -1,4 +1,4 @@
 # printf
 
-//Compiler:	gcc-12
+//Compiler:	gcc
 //Editor:	vim
